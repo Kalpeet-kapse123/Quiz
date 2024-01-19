@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "526119602698",
+    "project_id": "quiz-app-3731e",
+    "storage_bucket": "quiz-app-3731e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526119602698:android:a3c305e551901e876cedf3",
+        "android_client_info": {
+          "package_name": "com.kalpeet.quiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkkLMckQqhkNsZSWEqp23cuUaLbvA38SU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
