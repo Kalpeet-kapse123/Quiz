@@ -2,6 +2,7 @@ package com.kalpeet.quiz
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.kalpeet.quiz.databinding.ActivitySignUpBinding
@@ -28,6 +29,8 @@ class SignUpActivity : AppCompatActivity() {
                 finish()
             }
             else{
+                Log.d("Hello","auth")
+
                 Toast.makeText(applicationContext,task.exception?.localizedMessage,Toast.LENGTH_SHORT).show()
             }
         }

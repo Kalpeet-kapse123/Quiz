@@ -1,26 +1,44 @@
 {
   "project_info": {
-    "project_number": "625355325269",
-    "project_id": "quiz-c2c71",
-    "storage_bucket": "quiz-c2c71.appspot.com"
+    "project_number": "526119602698",
+    "project_id": "quiz-app-3731e",
+    "storage_bucket": "quiz-app-3731e.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:625355325269:android:18f13ec3696ab7c0f6b9dc",
+        "mobilesdk_app_id": "1:526119602698:android:a3c305e551901e876cedf3",
         "android_client_info": {
           "package_name": "com.kalpeet.quiz"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "526119602698-eecg26ig0upg6v96s3bp7tt0k12hqj29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kalpeet.quiz",
+            "certificate_hash": "70aee06877c2950b396cabea3c00495abe133514"
+          }
+        },
+        {
+          "client_id": "526119602698-h3oggeakgkoi4c0pi3tlq3obr5953pg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
-          "current_key": "AIzaSyAKNG6CDg-nU6iFfC9SKlOAD65cKf2NzUE"
+          "current_key": "AIzaSyDkkLMckQqhkNsZSWEqp23cuUaLbvA38SU"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526119602698-h3oggeakgkoi4c0pi3tlq3obr5953pg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
